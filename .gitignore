@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (Exclude the protocol and any audio directories)
+*.csv
+*.wav
+*.mp3
+/nfs/turbo/
+/data/
+
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE / Editor folders
+.vscode/
+.idea/
+.DS_Store
